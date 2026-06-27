@@ -1,0 +1,16 @@
+# OAuth2 & Social Authentication
+social-auth-app-django==5.4.0
+social-auth-storage-django==1.1.2
+
+# JWT Authentication
+DjangoRestFramework==3.14.0
+django-rest-framework-simplejwt==5.3.2
+
+# Email Verification
+celery==5.3.4
+redis==5.0.1
+django-celery-beat==2.5.0
+
+# Additional utilities
+python-decouple==3.8
+requests==2.31.0
